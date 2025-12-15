@@ -2,6 +2,10 @@
 
 Un dashboard de conversión de divisas construido con Next.js que permite a los usuarios convertir monedas y ver tasas de cambio en tiempo real.
 
+## 🌐 Live Demo
+
+**Aplicación desplegada:** [https://ria-money-transfer-coding-challenge.vercel.app](https://ria-money-transfer-coding-challenge.vercel.app)
+
 ## 📋 Descripción del Proyecto
 
 Este proyecto es una aplicación web moderna que proporciona herramientas esenciales para personas que realizan transferencias internacionales de dinero. Incluye:
